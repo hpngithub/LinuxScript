@@ -1,3 +1,4 @@
 .
 
-wget -O- ~$user https://github.com/hpngithub/LinuxScript/blob/main/Terminal/.bashrc
+wget -P ~/ https://raw.githubusercontent.com/hpngithub/LinuxScript/main/Terminal/.bashrc
+source .bashrc

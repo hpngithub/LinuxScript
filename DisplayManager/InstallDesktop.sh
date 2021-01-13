@@ -68,8 +68,9 @@ case $DISTRO in
 
 	Debian)
 		PACKAGES+=(
-			chromium
-			chromium-widevine
+			# chromium
+			# chromium-widevine
+			firefox-esr
 		)
 		;;
 

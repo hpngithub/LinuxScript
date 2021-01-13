@@ -1,0 +1,2 @@
+# LinuxScript
+Cool Linux Script

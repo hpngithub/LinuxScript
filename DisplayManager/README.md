@@ -1,7 +1,7 @@
 # DISPLAY MANAGER
 *NOTE : Below GUI Desktop Displaymananger for linux will install with packages as shown below. 
 !! Add packages based on desktop selection.!!
-case $DESKTOP-$DISTRO in
+
 	mate-Ubuntu)
 		PACKAGES+=(
 			ubuntu-mate-desktop
@@ -125,10 +125,6 @@ case $DESKTOP-$DISTRO in
 		;;
 
 	*)
-		echo "Error: unsupported desktop environment $DESKTOP"
-		exit 2
-		;;
-esac
 
 ## InstallDesktop.sh = Install using below command desktop for ubuntu and Debain only.
 

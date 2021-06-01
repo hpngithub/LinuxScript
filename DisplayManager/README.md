@@ -1,5 +1,6 @@
-# DISPLAY MANAGER
-*NOTE : Below GUI Desktop Displaymananger for linux will install with packages as shown below. 
+<p align="center"> <img src="/DisplayManager/DMLogo.jpg" width="350" height="250"> </p>
+
+*NOTE : Below GUI Desktop Displaymananger for linux will install with packages as shown below.*
 !! Add packages based on desktop selection.!!
 
 	mate-Ubuntu)

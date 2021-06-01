@@ -22,6 +22,7 @@
 
 ### REFERENCE URL
 
+    https://github.com/andresgongora/synth-shell
     https://yalneb.blogspot.com/2018/01/fancy-bash-promt.html
     https://github.com/powerline/fonts
 

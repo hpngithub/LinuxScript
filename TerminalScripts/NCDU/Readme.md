@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Ncdu
+- https://dev.yorhel.nl/ncdu
